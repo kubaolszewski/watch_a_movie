@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989368306264",
+    "project_id": "watch-a-movie-5a7e8",
+    "storage_bucket": "watch-a-movie-5a7e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989368306264:android:6c1b5eace5a73149d0982d",
+        "android_client_info": {
+          "package_name": "com.kubaolszewski.watch_a_movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989368306264-abbg6v49geu90lf7q5s4etk68rhe0t2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR5Pr3b1Cqt_qvbyIo7e92M0n7z-0KkxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989368306264-abbg6v49geu90lf7q5s4etk68rhe0t2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
